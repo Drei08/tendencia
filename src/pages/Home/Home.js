@@ -20,10 +20,7 @@ const Home = () => {
       {/* <section className="carousel">
         {fotos.map((f,i)=><img key={i} src={f}/>)}
       </section> */}
-
-      <footer>
-      Marcas: John John | Tommy Jeans | Individual | Perfect Way | Be Free | Index
-      </footer>
+      
     </div>
   )
 }

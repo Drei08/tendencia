@@ -1,0 +1,17 @@
+nav {
+  display:flex;
+  justify-content:space-between;
+  padding:20px 50px;
+  background:#050505;
+  border-bottom:1px solid #c9a227;
+}
+
+nav h2 {
+  color:#d4af37;
+  font-style:italic
+}
+
+nav a {
+  margin:0 15px;
+  color:#d4af37
+}
