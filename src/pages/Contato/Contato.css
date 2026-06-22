@@ -1,0 +1,19 @@
+.contato {
+  height:80vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.card {
+  background:#050505;
+  padding:40px;
+  border:1px solid #d4af37;
+  border-radius:15px;
+  color:#d4af37;
+  text-align:center;
+}
+
+.card a {
+  line-height:40px
+}
