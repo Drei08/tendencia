@@ -1,0 +1,37 @@
+header {
+  text-align:center;
+  padding:40px
+}
+
+header img {
+  max-width:700px;
+  width:80%;
+  border:2px solid #d4af37
+}
+
+h1 {
+  text-align:center;
+  color:#d4af37
+}
+
+.carousel {
+  display:flex;
+  gap:20px;
+  overflow:auto;
+  padding:30px;
+}
+
+.carousel img {
+  width:250px;
+  height:350px;
+  object-fit:cover;
+  border:2px solid #d4af37;
+}
+
+footer{
+  background:#050505;
+  padding:30px;
+  text-align:center;
+  color:#d4af37;
+  margin-top:40px;
+}

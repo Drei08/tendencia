@@ -1,0 +1,18 @@
+.sobre {
+  text-align:center;
+  padding:50px
+}
+
+.sobre img {
+  width:300px;
+  border:2px solid #d4af37
+}
+
+.card { 
+  max-width:700px;
+  margin:30px auto;
+  padding:30px;
+  background:#050505;
+  border:1px solid #d4af37;
+  border-radius:15px;
+}
