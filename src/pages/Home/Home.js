@@ -10,10 +10,10 @@ const Home = () => {
 //  ];
 
   return (
-    <div>
-      <header>
+    <div className="home-container">
+      {/* <header>
       {/* <img src="/logo.jpg"/> */}
-      </header>
+      {/* </header> */} 
 
       <h1>Provador da semana</h1>
 

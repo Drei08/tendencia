@@ -1,0 +1,14 @@
+.app-marcas {
+  background:#050505;
+  padding: 33px;
+  text-align:center;
+  color:#d4af37;
+  position: fixed;
+  width: 100%;
+  border-bottom: 3px solid #c9a227;
+}
+
+
+h2 {
+  text-transform: uppercase;
+}

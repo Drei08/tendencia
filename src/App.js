@@ -8,6 +8,7 @@ import Contato from "./pages/Contato/Contato";
 //Components
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
+import Marcas from "./components/Marcas";
 
 const App = () => {
  return ( 
@@ -20,6 +21,7 @@ const App = () => {
       <Route path="/contato" element={<Contato/>}/>
     </Routes>
     </>
+    <Marcas />
     <Footer />
   </BrowserRouter>
  )
